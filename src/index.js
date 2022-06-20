@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 
 function PaymentButton({amount = 100, name = 'raj saikia', contact = '8860430262',
-  email = 'raj.scyrus@gmail.com', address = 'Tezpur, Assam, India'}) {
+  email = 'raj.scyrus@gmail.com', address = 'Tezpur, Assam, India 784001'}) {
   const options = {
     key: "rzp_test_HJG5Rtuy8Xh2NB",
     amount: amount, //  = INR 1
